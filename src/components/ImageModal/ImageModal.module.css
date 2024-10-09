@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #f1f4ff;
+  padding-bottom: 10px;
+}
+.img{
+  box-shadow: 0px 10px 20px -10px #3d3d3d;
+}
+.textContent{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 0 10p
+}
+.text{
+  font-size: 20px;
+}
